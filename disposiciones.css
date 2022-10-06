@@ -1,0 +1,28 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.barranquilla {
+    width: 300px;
+}
+
+.cartagena {
+    width: 300px;
+}
+
+.santa-marta {
+    width: 300px;
+}
+
+.valledupar {
+    width: 300px;
+}
+
+.san-andres {
+    width: 300px;
+}
+
+.riohacha {
+    width: 300px;
+}
